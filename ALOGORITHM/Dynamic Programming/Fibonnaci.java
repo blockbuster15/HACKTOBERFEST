@@ -18,4 +18,4 @@ public static int fb(int n, int[] strg) {
     strg[n] = fn;
     return fn;
 }}
-...................
+
