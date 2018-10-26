@@ -17,4 +17,5 @@ public static int fb(int n, int[] strg) {
     int fn = f2 + f1;
     strg[n] = fn;
     return fn;
-}
+}}
+...................
